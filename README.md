@@ -6,6 +6,8 @@
 - Typescript
 - Vite
 - eslint
+- [react three fiber](https://github.com/pmndrs/react-three-fiber)
+  - [three.js](https://threejs.org/manual/#en/creating-a-scene)
 
 ## Instructions
 
